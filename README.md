@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabia Baloch</h1>
 <h3 align="center">A FullStack Developer and Javascript Engineer with an unwavering passion for technology from Pakistan</h3>
-<p>
+<p align="center">
   <img align="center" width="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding gif" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiabaloch425&label=Profile%20views&color=0e75b6&style=flat" alt="rabiabaloch425" /> </p>
