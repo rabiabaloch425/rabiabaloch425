@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabia Baloch</h1>
 <h3 align="center">A FullStack Developer and Javascript Engineer with an unwavering passion for technology from Pakistan</h3>
-
+<img align="right" width="350" src="[/assets/programmer.gif](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)" alt="Coding gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiabaloch425&label=Profile%20views&color=0e75b6&style=flat" alt="rabiabaloch425" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiabaloch425" alt="rabiabaloch425" /></a> </p>
