@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiabaloch425&show_icons=true&locale=en" alt="rabiabaloch425" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiabaloch425&" alt="rabiabaloch425" /></p>
+
+![Rabia's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rabiabaloch425&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
