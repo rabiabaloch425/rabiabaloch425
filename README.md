@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img align="center"  src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding gif" />
+  <img align="center" width="500px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Coding gif" />
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiabaloch425&label=Profile%20views&color=0e75b6&style=flat" alt="rabiabaloch425" /> </p>
