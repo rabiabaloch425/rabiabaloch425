@@ -40,4 +40,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiabaloch425&" alt="rabiabaloch425" /></p>
 
-![Rabia's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rabiabaloch425&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <a href="https://github.com/rabiabaloch425">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiabaloch425&theme=radical" alt="Rabia's GitHub Contribution"/>
+  </a>
+</p>
+
+![Rabia's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rabiabaloch425&custom_title=Rabia's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
