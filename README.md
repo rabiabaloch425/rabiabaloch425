@@ -8,7 +8,7 @@
 - **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
 - **Frameworks**: `React.js | Next.js | Ionic React | Express JS `
 - **State Management**: `Redux | Redux Toolkit | TanStack Query | Flux`
-- **Styling & UI**: `Tailwind CSS`
+- **Styling & UI**: `Tailwind CSS | Chakra UI | Material UI | Ant Design`
 - **TailwindCSS UI Libraries**: `ShadCN | Flowbite | Tailgrids | DaisyUI | Mamba UI | Headless UI`
 
 ---
@@ -30,6 +30,18 @@
 - **Token-Based**: `JWT (JSON Web Tokens)`
 - **Cookie-Based**: `Cookie Authentication`
 - **OAuth**: `OAuth 2.0`
+
+
+---
+
+---
+
+### 🧪 **Testing Frameworks**
+- **Unit Testing**: `Jest | Mocha`
+- **Integration Testing**: `Karma | Protractor`
+- **End-to-End Testing**: `Cypress | Selenium`
+- **Behavior-Driven Development**: `Cucumber | Jasmine`
+- **Performance Testing**: `JMeter | Gatling`
 
 
 ---
