@@ -42,8 +42,7 @@
 ---
 
 ### 👁️ **Profile Views**
--  `
-<p > <img src="https://komarev.com/ghpvc/?username=rabiabaloch425&label=Profile%20views&color=0e75b6&style=flat" alt="rabiabaloch425" /> </p>`
+-  `<p > <img src="https://komarev.com/ghpvc/?username=rabiabaloch425&label=Profile%20views&color=0e75b6&style=flat" alt="rabiabaloch425" /> </p>`
   
 ---
 
