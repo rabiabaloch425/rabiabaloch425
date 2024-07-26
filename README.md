@@ -39,6 +39,14 @@
   
 ---
 
+---
+
+### 👁️ **Profile Views**
+-  `
+<p > <img src="https://komarev.com/ghpvc/?username=rabiabaloch425&label=Profile%20views&color=0e75b6&style=flat" alt="rabiabaloch425" /> </p>`
+  
+---
+
 📫 You can reach out to me on
 - rabiabaloch425@gmail.com
 - https://www.linkedin.com/in/rabia-developer
