@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ### 🧪 **Testing Frameworks**
 - **Unit Testing**: `Jest | Mocha`
 - **Integration Testing**: `Karma | Protractor`
@@ -49,8 +47,6 @@
 ### 🚀 **Deployment and Hosting**
 - **Platforms**: `Render | Heroku | Firebase | Aws`
   
----
-
 ---
 
 ### 👁️ **Profile Views**
