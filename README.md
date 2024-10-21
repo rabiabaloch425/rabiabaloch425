@@ -22,7 +22,7 @@
 
 ### 🗃 **Databases**
 - **NoSQL**: `MongoDB | Mongoose`
-- **SQL**: `PostgreSQL`
+- **SQL**: `PostgreSQL` | `Supabase`
 
 ---
 
