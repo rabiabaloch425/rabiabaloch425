@@ -14,8 +14,8 @@
 ---
 
 ### 🛠 **Backend Development**
-- **Languages**: `Node.js`
-- **Frameworks**: `Express.js | Nest.js`
+- **Languages**: `Node.js | Python`
+- **Frameworks**: `Express.js | Nest.js | Fast Api | DJango | Flask`
 - **API Design**: `RESTful APIs | Graphql`
 
 ---
